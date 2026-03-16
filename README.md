@@ -27,5 +27,3 @@ java -jar lib/junit-platform-console-standalone-1.10.0.jar --class-path . --scan
 - **Autor:** Ismael Liza
 - **Versión:** 1.0.0
 - **Fecha:** 2026-03-16
-
-> Nota: Cambia la sección de autoría si deseas incluir tu nombre real o datos adicionales.
